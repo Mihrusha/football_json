@@ -14,7 +14,7 @@
 },
  {
     "name": "<a href=\"http://www.sports.ru/roma/\">Рома</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
     "matches": 10,
     "win": 7,
     "draw": 1,
@@ -27,7 +27,7 @@
 }, 
 {
     "name": "<a href=\"http://www.sports.ru/napoli/\">Наполи</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
     "matches": 11,
     "win": 6,
     "draw": 2,
@@ -40,7 +40,7 @@
 }, 
 {
     "name":"<a href=\"http://www.sports.ru/atalanta/\">Аталанта</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
     "matches": 11,
     "win": 6,
     "draw": 1,
@@ -53,7 +53,7 @@
 }, 
 {
     "name":"<a href=\"http://www.sports.ru/milan/\">Милан</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country":"<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
     "matches": 10,
     "win": 6,
     "draw": 1,
@@ -66,7 +66,7 @@
 }, 
 {
     "name":"<a href=\"http://www.sports.ru/lazio/\">Лацио</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
     "matches": 10,
     "win": 5,
     "draw": 3,
@@ -79,7 +79,7 @@
 },
  {
     "name":"<a href=\"http://www.sports.ru/fiorentina/\">Фиорентина</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
     "matches": 10,
     "win": 4,
     "draw": 4,
@@ -92,7 +92,7 @@
 }, 
 {
     "name":"<a href=\"http://www.sports.ru/torino/\">Торино</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
     "matches": 10,
     "win": 4,
     "draw": 3,
@@ -105,7 +105,7 @@
 },
  {
     "name":"<a href=\"http://www.sports.ru/genoa/\">Геноа</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
     "matches": 10,
     "win": 4,
     "draw": 3,
@@ -118,7 +118,7 @@
 }, 
 {
     "name":"<a href=\"http://www.sports.ru/chievo/\">Кьево</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
      "matches": 10,
     "win": 4,
     "draw": 3,
@@ -131,7 +131,7 @@
 }, 
 {
     "name":"<a href=\"http://www.sports.ru/inter/\">Интер</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
      "matches": 10,
     "win": 4,
     "draw": 2,
@@ -144,7 +144,7 @@
 }, 
 {
     "name":"<a href=\"http://www.sports.ru/bologna/\">Болонья</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
     "matches": 11,
     "win": 3,
     "draw": 4,
@@ -157,7 +157,7 @@
 }, 
 {
     "name":"<a href=\"http://www.sports.ru/sassuolo/\">Сасуолло</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
     "matches": 10,
     "win": 4,
     "draw": 1,
@@ -170,7 +170,7 @@
 }, 
 {
     "name":"<a href=\"http://www.sports.ru/udinese/\">Удинезе</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
     "matches": 10,
     "win": 4,
     "draw": 1,
@@ -183,7 +183,7 @@
 }, 
 {
     "name":"<a href=\"http://www.sports.ru/cagliari/\">Кагьяри</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
     "matches": 10,
     "win": 4,
     "draw": 1,
@@ -196,7 +196,7 @@
 }, 
 {
     "name":"<a href=\"http://www.sports.ru/sampdoria/\">Самдория</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
     "matches": 10,
     "win": 3,
     "draw": 2,
@@ -209,7 +209,7 @@
 }, 
 {
      "name":"<a href=\"http://www.sports.ru/tags/72491088/\">Пескара</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
      "matches": 10,
     "win": 1,
     "draw": 4,
@@ -222,7 +222,7 @@
 }, 
 {
     "name":"<a href=\"http://www.sports.ru/tags/1046357/\">Эмполи</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
      "matches": 10,
     "win": 1,
     "draw": 3,
@@ -235,7 +235,7 @@
 }, 
 {
     "name":"<a href=\"http://www.sports.ru/palermo/\">Палермо</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
     "matches": 10,
     "win": 1,
     "draw": 3,
@@ -248,7 +248,7 @@
 }, 
 {
     "name":"<a href=\"http://www.sports.ru/tags/5049877/\">Кротоне</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg?raw=true\" />",
     "matches": 10,
     "win": 0,
     "draw": 2,
