@@ -1,7 +1,7 @@
 [
 {
     "name": "<a href=\"http://www.sports.ru/juventus/\">Ювентус</a>",
-    "flag_country": "<img src=\"Italy.jpg\" />",
+    "flag_country": "<img src=\"https://github.com/Mihrusha/football_json/blob/master/Italy.jpg\" />",
     "matches": 11,
     "win": 9,
     "draw": 0,
