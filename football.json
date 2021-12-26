@@ -1,6 +1,6 @@
 [
 {
-    "name": "<a href=\"http://www.sports.ru/juventus/\">Ювентус</a>",
+    "name": "http://www.sports.ru/juventus/",
     "flag_country": "<img src=\"Italy.jpg\" />",
     "matches": 11,
     "win": 9,
